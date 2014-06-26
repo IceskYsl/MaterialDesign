@@ -5,56 +5,56 @@ http://www.google.com/design/spec/material-design/introduction.html
 
 
 ### 参与步骤：
-* fork主仓库（https://github.com/IceskYsl/MaterialDesign）
+* fork主仓库（https://github.com/1sters/MaterialDesign）
 * 按照如下协作规范
 
 ### 目录
 * Material Design
-* * Introduction
+  * Introduction
 * Animation
-* * Authentic Motion
-* * Responsive Interaction
-* * Meaningful Transitions
-* * Delightful Details
+  * Authentic Motion
+  * Responsive Interaction
+  * Meaningful Transitions
+  * Delightful Details
 * Style
-* * Color
-* * Typography
-* * Icons
-* * Imagery
+  * Color
+  * Typography
+  * Icons
+  * Imagery
 * Layout
-* * Principles
-* * Metrics and Keylines
-* * Structure
+  * Principles
+  * Metrics and Keylines
+  * Structure
 * Components
-* * Bottom Sheets
-* * Buttons
-* * Cards
-* * Chips
-* * Dialogs
-* * Dividers
-* * Grids
-* * Lists
-* * List controls
-* * Menus
-* * Progress and Activity
-* * Sliders
-* * Snackbars and Toasts
-* * Subheaders
-* * Switches
-* * Tabs
-* * Text fields
-* * Tooltips
+  * Bottom Sheets
+  * Buttons
+  * Cards
+  * Chips
+  * Dialogs
+  * Dividers
+  * Grids
+  * Lists
+  * List controls
+  * Menus
+  * Progress and Activity
+  * Sliders
+  * Snackbars and Toasts
+  * Subheaders
+  * Switches
+  * Tabs
+  * Text fields
+  * Tooltips
 * Patterns
-* * Selection
-* * Gestures
-* * Promoted Actions
-* * Settings
-* * Imagery Treatment
-* * Search
+  * Selection
+  * Gestures
+  * Promoted Actions
+  * Settings
+  * Imagery Treatment
+  * Search
 * Usability
-* * Accessibility
+  * Accessibility
 * Resources
-* * Layout Templates
-* * Sticker Sheets
-* * Roboto Font
-* * Color Palettes
+  * Layout Templates
+  * Sticker Sheets
+  * Roboto Font
+  * Color Palettes
